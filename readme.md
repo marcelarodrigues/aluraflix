@@ -1,3 +1,3 @@
-Projeto Alura+
+<b>Projeto Alura+<b>
 
-Uma plataforma de streaming da Alura: combo promocional das plataformas Alura Plus e o Alura Língua.
+A plataforma de streaming da Alura: combo promocional das plataformas Alura Plus e o Alura Língua.
