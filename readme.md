@@ -1,1 +1,1 @@
-Projeto Aluraflix
+Projeto Alura+
