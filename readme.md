@@ -4,7 +4,9 @@
 
 ![CONCLUÍDO](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
-<p>Projeto dedicado a criação da página web ficticia de streaming da Alura, evidenciando o combo promocional das plataformas Alura Plus e o Alura Línguas. O resultado final do projeto você encontra <a href="https://aluraflix-seven-pink.vercel.app/">aqui<a>.</p>
+<p>Projeto dedicado a criação da página web ficticia de streaming da Alura, evidenciando o combo promocional das plataformas Alura Plus e o Alura Línguas. 
+
+Como a maior parte do fluxo de navegação da internet é mobile, as páginas foram também adaptadas numa versão mobile friendly com layout responsivo para dispositivos móveis. O resultado final do projeto você encontra <a href="https://aluraflix-seven-pink.vercel.app/">aqui<a>.</p>
   
  
   
